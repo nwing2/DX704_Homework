@@ -1,0 +1,4 @@
+Acknowledgments
+
+I used ChatGPT (OpenAI) for assistance with debugging Python code, interpreting error messages, and help with code for tsv file sharing.
+ChatGPT transcript: https://chatgpt.com/share/6a9df652-4a48-83e9-8621-c0393d4ecc4a
