@@ -1,8 +1,10 @@
-I used ChatGPT (OpenAI) for assistance with this project.
-I used it to help troubleshoot Python code, interpret error messages,
-and clarify the assignment instructions and methodology.
 
-ChatGPT transcript:
-https://chatgpt.com/share/6aa59ccf-1eb0-83ea-9dcc-65f9a1bc1c3a
+I used the DX 704 Week 3 example code as a reference for the multi-armed bandit implementation and visualization.
 
-All final code, calculations, analysis, and submitted files were reviewed by me.
+Additional references:
+Analytics Vidhya - Multi-Armed Bandit Problem & Its Implementation in Python:
+https://www.analyticsvidhya.com/blog/2018/09/reinforcement-multi-armed-bandit-scratch-python/
+
+GenRL - Upper Confidence Bound (UCB) Tutorial:
+https://genrl.readthedocs.io/en/stable/usage/tutorials/bandit/ucb.html
+

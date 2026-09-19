@@ -1,0 +1,1 @@
+Because the arms have continuous, overlapping reward distributions, UCB is most suitable because it handles numeric rewards while balancing exploration and exploitation based on uncertainty.
