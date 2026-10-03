@@ -1,10 +1,2 @@
 
-I used the DX 704 Week 3 example code as a reference for the multi-armed bandit implementation and visualization.
-
-Additional references:
-Analytics Vidhya - Multi-Armed Bandit Problem & Its Implementation in Python:
-https://www.analyticsvidhya.com/blog/2018/09/reinforcement-multi-armed-bandit-scratch-python/
-
-GenRL - Upper Confidence Bound (UCB) Tutorial:
-https://genrl.readthedocs.io/en/stable/usage/tutorials/bandit/ucb.html
-
+NONE
