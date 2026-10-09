@@ -1,0 +1,5 @@
+source	reference	usage
+DX704 Week 6 Examples	video_implementing_iterative_policy_evaluation.ipynb	Referenced iterative policy evaluation to calculate expected rewards under fixed treatment policies.
+DX704 Week 6 Examples	video_implementing_value_iteration.ipynb	Referenced value iteration to calculate optimal state values and treatment actions.
+DX704 Week 6 Examples	video_implementing_policy_iteration.ipynb	Referenced policy iteration concepts for understanding optimal treatment strategies.
+Python Libraries	NumPy and pandas	Used for matrix calculations, data processing, and exporting TSV files.
