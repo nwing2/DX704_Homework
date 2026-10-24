@@ -1,5 +1,2 @@
-source	reference	usage
-DX704 Week 7 Examples	video_visualizing_linear_quadratic_regulators.ipynb	Referenced LQR concepts and methods for calculating the optimal control matrix.
-DX704 Week 7 Examples	video_simulating_a_quadcopter_with_different_cost_parameters.ipynb	Referenced quadcopter simulations to understand how cost matrices Q and R influence control actions.
-DX704 Week 7 Examples	video_quadcopters_gone_wild.ipynb	Referenced quadcopter dynamics and controller behavior to understand differences between intended and actual system performance.
-Python Libraries	NumPy, pandas, and SciPy	Used for matrix calculations, solving the discrete algebraic Riccati equation, linear regression, data processing, and exporting TSV files.
+source	reference
+DX704 Week 8 Examples	video_visualizing_pid_controllers.ipynb
