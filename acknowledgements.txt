@@ -1,2 +1,5 @@
 source	reference
-DX704 Week 8 Examples	video_visualizing_pid_controllers.ipynb
+DX704 Week 10 Examples	2025-11-03_live_session.ipynb
+DX704 Week 10 Examples	video_testing_document_vectors_for_classification.ipynb
+DX704 Week 10 Examples	video_testing_hashed_document_vectors_for_classification.ipynb
+DX704 Week 10 Examples	video_testing_normalized_document_vectors_for_classification.ipynb
